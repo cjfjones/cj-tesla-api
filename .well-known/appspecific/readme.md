@@ -1,1 +1,1 @@
-Seed doc for folder creation
+Seed doc for folder creation.
